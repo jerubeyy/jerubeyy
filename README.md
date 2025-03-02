@@ -35,4 +35,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerubeyy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerubeyy&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jerubeyy&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jerubeyy&theme=radical&hide_border=true)
